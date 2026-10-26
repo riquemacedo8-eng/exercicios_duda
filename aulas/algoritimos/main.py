@@ -1,4 +1,4 @@
-import menu
+import aulas.algoritimos.menu as menu
 
 while True:
     menu.exibir()
